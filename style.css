@@ -1,0 +1,10 @@
+body { background: #191b1f; color: white; display: flex; justify-content: center; align-items: center; height: 100vh; font-family: sans-serif; }
+.swap-card { background: #212429; padding: 25px; border-radius: 20px; width: 400px; box-shadow: 0 4px 15px rgba(0,0,0,0.5); }
+.input-group { background: #2c2f36; padding: 15px; border-radius: 15px; margin-bottom: 5px; }
+label { display: block; font-size: 0.9rem; color: #8f96ac; margin-bottom: 5px; }
+input { width: 100%; background: transparent; border: none; color: white; font-size: 1.5rem; outline: none; }
+.arrow { text-align: center; margin: 10px 0; font-size: 1.2rem; }
+button { width: 100%; padding: 15px; border-radius: 15px; border: none; font-weight: bold; font-size: 1rem; cursor: pointer; margin-top: 15px; }
+#swapBtn { background: #4c82fb; color: white; }
+#approveBtn { background: #333; color: #4c82fb; border: 1px solid #4c82fb; margin-top: 10px; }
+#status { margin-top: 10px; text-align: center; font-size: 0.9rem; color: #8f96ac; }
